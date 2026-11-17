@@ -1,0 +1,11 @@
+main
+	__CC2DW
+	enter_state
+		clear_entry
+	Inittimer
+	Mapping_IO
+	debounce_keypad
+	clear_entry
+	readkey
+	entry_is
+dialtone_interrupt

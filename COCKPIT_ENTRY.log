@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F26K22 -DL -O11111114 -fo8 -N"D:\Projects\COCKPIT\COCKPIT_ENTRY.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\Projects\COCKPIT\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "COCKPIT_ENTRY.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 3875 [bytes], Available ROM: 65536 [bytes]	 
+diagnostics: 0	122	Compilation Started	mapping.h
+hint: 0	1004	interrupt handler (dialtone_interrupt at 0x0018)	tmr01.h
+diagnostics: 217	123	Compiled Successfully	COCKPIT_ENTRY.c
+diagnostics: 0	127	All files Compiled in 93 ms	 
+hint: 0	1144	Used RAM (bytes): 82 (2%)  Free RAM (bytes): 3793 (98%)	Used RAM (bytes): 82 (2%)  Free RAM (bytes): 3793 (98%)
+hint: 0	1144	Used ROM (bytes): 1919 (3%)  Free ROM (bytes): 63617 (97%)	Used ROM (bytes): 1919 (3%)  Free ROM (bytes): 63617 (97%)
+diagnostics: 0	125	Project Linked Successfully	COCKPIT_ENTRY.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'COCKPIT_ENTRY.mcppi' completed: 125 ms	 
+diagnostics: 0	103	Finished successfully: 17 Nov 2026, 08:55:12	COCKPIT_ENTRY.mcppi
